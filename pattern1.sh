@@ -1,4 +1,4 @@
-#!
+#!/bin/bash
 rows=4
 for((i=1; i<=$rows; i++))
 do 
