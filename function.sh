@@ -1,3 +1,4 @@
+#!/bin/bash
 rightfun()
 {
 	for i in {1..10}
