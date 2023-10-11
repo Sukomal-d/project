@@ -1,4 +1,4 @@
-#!
+#!/bin/bash
 number=1
 rows=5
 for((i=1; i<=rows; i++))
